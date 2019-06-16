@@ -71,7 +71,6 @@ font-family: 'Advent Pro', sans-serif;
    transform: scale(1.04);
    z-index:9998;
    object-fit: cover;
-   height: 100%;
 }
 
 .reset-resize{
