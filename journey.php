@@ -1,0 +1,396 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="Viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+	<link rel="stylesheet" href="style.css">
+
+	<link href="https://fonts.googleapis.com/css?family=Indie+Flower|Lato|Pacifico|Raleway" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Advent+Pro|Cabin+Sketch|Maven+Pro" rel="stylesheet">
+	<title>The Journey of Rayymond</title>
+</head>
+
+<body class="grey-background">
+	<nav class="navbar front site-header navbar-expand navbar-dark sticky-top round-corners py-1">
+		<a class="navbar-brand px-2 py-2" href="index.html">The Journey of Rayymond</a>
+
+		<ul class="navbar-nav mr-auto">
+			<li class="nav-item text-center">
+				<a class="nav-link" href="./">Home</a>
+			</li>
+			<li class="nav-item active text-center">
+				<a class="nav-link" href="journey.php">Journey</a>
+			</li>
+		</ul>
+		<ul class="navbar-nav ml-auto">
+			<a class="navbar-brand" href="https://www.instagram.com/rayymondthomas/">
+				<img src="./images/insta.png" class="" width="30" height="30">
+			</a>
+		</ul>
+	</nav>
+
+
+	<div class="container-fluid mt-4">
+		<div class="row justify-content-center">
+
+			<div class="col-8">
+
+				<div class="card-group box-shadow mb-5"><!-- card 1 -->
+					<div class="card middle">
+						<img class="card-img round-left" src="./images/photos1/3.jpg" alt="" />
+					</div>
+
+					<div class="card back">
+						<div class="back card-body">
+							<h4 class="card-title bottom-line" style="color:#ff6666;"><b>The journey starts</b></h4>
+
+							<p class="card-text">We woke up early feeling enthusiastic to hike <u>Broga Hill</u>.We departed at 5:30 a.m. from our condo and reached 
+								<u>Broga Hill</u> at 6:00 a.m. We were told that <u>Broga Hill</u> is fondly called as Bukit Lalang - as the hill is covered with weeds resembling an African Savannah.
+								The hill is about 350 meter in height. No trees are found up there due to the hard ground - with rocks. 
+							The peak of the hill guarantees a scenic view of the Broga valley and a glimpse of Semenyih.</p>
+
+						</div>
+						<div class="card-footer">
+							<small class="text-muted">this is me feeling so handsome whilst flexing my biceps</small>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-9">
+				<div class="row"> <!-- Image Gallery -->
+					<div class="col-6">
+						<div class="card mb-5">
+							<img class="card-img" src="./images/photos1/1.jpg">
+						</div>
+					</div>
+
+					<div class="col-6">
+						<div class="card mb-5">
+							<img class="card-img" src="./images/photos1/2.jpg">
+						</div>
+					</div>
+				</div> <!-- End Image Gallery-->
+			</div>
+
+			<div class="col-8">
+
+				<div class="card-group box-shadow mb-5">
+					<div class="card middle">
+						<img class="card-img round-left" src="./images/bobo/5.jpg" alt="" />
+					</div>
+
+					<div class="card back">
+						<div class="card-body">
+							<h4 class="card-title bottom-line" style="color:#189aa8;"><b>Gotta Pay</b></h4>
+
+							<p class="card-text"> I couldn’t help but notice that the parking lot was already over 50% occupied. They counted head for the parking ticket which is RM1 per head.
+							so that makes it RM5 because there's 5 of us.</p>
+							<p class="card-text"> As we approach the main gate to start our hike we were told to pay another RM1 for entrance which I think is not needed since they counted head for the parking ticket. So I had a short arguement with the person but in the end I just paid because I wanted to climb my dream mountain. </p>
+
+						</div>
+					</div>
+				</div>
+
+				<div class="card-group box-shadow mb-5">
+					<div class="card middle">
+						<img class="card-img round-left" src="./images/photos3/3.jpg" alt="" />
+					</div>
+
+					<div class="card back">
+						<div class="card-body">
+							<h4 class="card-title bottom-line" style="color:#ff007f;"><b>Half way there</b></h4>
+
+							<p class="card-text">I was so hyped for this trip that i left my friends while i zoomed through all the obstacle in less than 15minutes!</p>
+							<p class="card-text">The trail is beautiful with rhythmically swaying weeds. At some crossings, there are ropes to help you trek - the trail is slippery in the 
+								morning due to the mist - so, we had to be careful as not to fall off. At the first peak, we took a break to enjoy the cool morning breeze - absolutely 
+								refreshing and calming - a good place to de-stress - and the greenery is truly a feast to the eye. It's good to start off early - to enjoy the 
+							morning breeze and avoid the scorching afternoon sun.</p>
+						</div>
+						<div class="card-footer">
+							<small class="text-muted">rare picture of me doing my daily stance to pickup beautiful ladies</small>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-9 my-auto">
+				<!-- Image Gallery --> <!--18.jpg-->
+				<div class="row">
+					<div class="col-7 my-auto">
+						<div class="card mb-5">
+							<img class="card-img" src="./images/bobo/18.jpg">
+						</div>
+						<div class="card mb-5">
+							<img class="card-img" src="./images/bobo/20.jpg">
+						</div>
+					</div>
+
+					<div class="col-5 my-auto">
+						<div class="card mb-5">
+							<img class="card-img" src="./images/bobo/17.jpg">
+						</div>
+						<div class="card mb-5">
+							<img class="card-img" src="./images/bobo/19.jpg">
+						</div>
+					</div> <!-- End Image Gallery-->
+				</div>
+			</div>
+
+
+			<div class="col-8">
+
+				<div class="card-group box-shadow mb-5">
+					<div class="card middle">
+						<img class="card-img round-left" src="./images/photos1/8.jpg" alt="" />
+					</div>
+
+					<div class="card back">
+						<div class="card-body">
+							<h4 class="card-title bottom-line" style="color:#4b0082;"><b>I couldn't feel my legs</b></h4>
+
+							<p class="card-text">I'd hate to say this but my leg hurts! but that's not stopping me from accomplishing from childhood dream to reach the highest peak
+							in the world!.</p>
+
+							<p class="card-text">Although i got bitten by a snake but no pain is ever going to stop me. I strangled the snake and it ran as soon as i tried to bite it back.</p>		            
+						</div>
+						<div class="card-footer">
+							<small class="text-muted">max telling me to stay up</small>
+						</div>
+					</div>
+				</div>
+			</div>	   
+
+			<div class="col-5">  
+
+				<div class="card mb-5">
+					<img class="card-img" src="./images/bobo/23.jpg">
+				</div>
+
+			</div>
+
+			<div class="col-8">
+
+				<div class="card-group box-shadow mb-5">
+					<div class="card middle">
+						<img class="card-img round-left" src="./images/photos2/7.jpg" alt="" />
+					</div>
+
+					<div class="card back">
+						<div class="card-body">
+							<h4 class="card-title bottom-line" style="color:#1b685b;"><b>Almost fainted...</b></h4>
+
+							<p class="card-text">We were almost there but suddenly i felt a bit dizzy. I started to see black spot around. I know something is not right
+							but suddenly i remembered what my idol said;</p>
+
+							<p class="card-text"><i>It Always seems impossible until it is done - Nelson Mandela</i></p>
+
+							<p class="card-text"><i>Keep on trying! Never give up on something you can't go a day without thinking about - Justin Bieber</i></p>
+
+							<p class="card-text"><i>Rayymond dont be naughty - My Mum </i></p>
+
+							<p class="card-text">They were my role models and what kept me going every day</p>
+						</div>
+						<div class="card-footer">
+							<small class="text-muted">my masculine face </small>
+						</div>
+					</div>
+				</div>
+
+				<div class="card-group box-shadow mb-5">
+					<div class="card middle">
+						<img class="card-img round-left" src="./images/photos3/5.jpg" alt="" />
+					</div>
+
+					<div class="card back">
+						<div class="card-body">
+							<h4 class="card-title bottom-line" style="color:#40e0d0;"><b>Mild injuries</b></h4>
+
+							<p class="card-text">There was a bit of venom in my legs the time when I got bitten by the snake. Lucky enough I remembered a technique i learnt
+							from a hidden cave on how to remove snake's venom.</p>
+
+							<p class="card-text">First, I straighten my legs then I gently put my mouth on the wounded area. I slowly suck the venom out with the help of my tounge. There's dark
+							scars on my legs but that doesn't matter as long as my legs were healed.</p>
+						</div>
+					</div>
+				</div>
+
+				<div class="card-group box-shadow mb-5">
+					<div class="card middle">
+						<img class="card-img round-left" src="./images/photos1/5.jpg" alt="" />
+					</div>
+
+					<div class="card back">
+						<div class="card-body">
+							<h4 class="card-title bottom-line" style="color:#800000;"><b>After treatment</b></h4>
+
+							<p class="card-text">My legs is back to normal!!! yayy</p>
+							<p class="card-text">Then we went uphill full speed in hope to achieve my dreams</p>
+						</div>
+					</div>
+				</div>
+
+			</div> <!-- end col-8 -->
+
+			<!-- quote -->
+			<div class="col-5 mb-5">
+				<div class="card">
+					<img class="card-img reset-resize" src="./images/photos1/quote1.jpg">
+				</div>
+			</div>
+
+			<div class="col-8"> <!-- start new col-8-->
+
+				<div class="card-group box-shadow mb-5">
+					<div class="card middle">
+						<img class="card-img round-left" src="./images/photos3/29.jpg" alt="" />
+					</div>
+
+					<div class="card back">
+						<div class="card-body">
+							<h4 class="card-title bottom-line" style="color:#ce7140;"><b>We finally reach the top of the mountain</b></h4>
+
+							<p class="card-text">After going through all the difficulties during the early stage of the hike. I. Rayymond. Rayymond Thomas finally made my mark
+								on this Mountain. Being one of the earliest man to step foot on this mountain is not an easy task but sometimes you have to keep on going. Always remember that 
+							Failure is just a practice towards success.</p>
+
+							<p class="card-text">To celebrate my achievement , I decided to be a <b>statue</b> on this peak.</p>
+						</div>
+						<div class="card-footer">
+							<small class="text-muted">me as a statue</small>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-10"><!-- Image Gallery --> <!--18.jpg-->
+				<div class="row">
+					<div class="col-5 my-auto">
+						<div class="card mb-5">
+							<img class="card-img" src="./images/bobo/14.jpg">
+						</div>
+					</div>
+
+					<div class="col-7 my-auto">
+						<div class="row my-auto">
+							<div class="col-12">
+								<div class="card mb-5">
+									<img class="card-img" src="./images/bobo/11.jpg">
+								</div>
+							</div>
+							<div class="col-12">
+								<div class="card mb-5">
+									<img class="card-img" src="./images/bobo/12.jpg">
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div> <!-- End Image Gallery-->
+
+			<div class="col-8">
+
+				<div class="card-group box-shadow mb-5">
+					<div class="card middle">
+						<img class="card-img round-left" src="./images/photos3/25.jpg" alt="" />
+					</div>
+
+					<div class="card back">
+						<div class="card-body">
+							<h4 class="card-title bottom-line" style="color:#4a516b;"><b>Relaxing.....</b></h4>
+
+							<p class="card-text">Chilling and enjoying the panoromic scenery of the beautiful greeneries.</p>
+						</div>
+					</div>
+				</div>
+
+				<div class="card-group box-shadow mb-5">
+					<div class="card middle">
+						<img class="card-img round-left" src="./images/photos3/17.jpg" alt="" />
+					</div>
+
+					<div class="card back">
+						<div class="card-body">
+							<h4 class="card-title bottom-line" style="color:#5cd7ff;"><b>I couldn't resist...</b></h4>
+
+							<p class="card-text">I just cant. I took selfies and flexed my <b>muscles</b> everwhere on the mountain to show to the world!!</p>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-10"><!-- Image Gallery --> <!--18.jpg-->
+				<div class="row">
+					<div class="col-6 my-auto">
+						<div class="card mb-5">
+							<img class="card-img" src="./images/photos3/18.jpg">
+						</div>
+					</div>
+
+					<div class="col-6 my-auto">
+						<div class="card mb-5">
+							<img class="card-img" src="./images/photos3/4.jpg">
+						</div>
+						<div class="card mb-5">
+							<img class="card-img" src="./images/photos3/26.jpg">
+						</div>
+					</div>
+				</div>
+			</div> <!-- End Image Gallery-->
+
+			<div class="col-8 justify-content-center">
+
+				<div class="card-group box-shadow mb-5">
+					<div class="card middle">
+						<img class="card-img round-left" src="./images/photos1/12.jpg" alt="" />
+					</div>
+
+					<div class="card back">
+						<div class="card-body">
+							<h4 class="card-title bottom-line" style="color:#189aa8;"><b>On the way down...</b></h4>
+
+							<p class="card-text">We stumbled upon a black ants colony. I think they were migrating to a new area as they were moving together in a huge army.</p>
+							<p class="card-text">So I decided to be a bad person and <b><i>kill</i></b> them alllllll!!!</p>
+						</div>
+					</div>
+				</div>
+
+				<div class="card-group box-shadow mb-5">
+					<div class="card middle">
+						<img class="card-img round-left" src="./images/bobo/21.jpg" alt="" />
+					</div>
+
+					<div class="card back">
+						<div class="card-body">
+							<h4 class="card-title bottom-line" style="color:#4b0082;"><b>We had drinks at an aunty stall</b></h4>
+
+							<p class="card-text">As we were reaching the base of the mountain we stopped by to have a drink in this beautiful aunty's stall</p>
+							<p class="card-text">She suggested that we drink the fresh coconut because it is able to help cool down the temperature of our body</p>
+						</div>
+					</div>
+				</div>
+
+				<div class="card-group box-shadow mb-5">
+					<div class="card middle">
+						<img class="card-img round-left" src="./images/photos1/11.jpg" alt="" />
+					</div>
+
+					<div class="card back">
+						<div class="card-body">
+							<h4 class="card-title bottom-line" style="color:#ce7140;"><b>The feeling you get when you're away from earth from a thousand years...</b></h4>
+
+							<p class="card-text">After breaking almost all 205 of 206 bones in my body, I finally reached the base of Mount everest</p>
+
+							<footer class="blockquote-footer">Don't worry guys, I'm fine <cite title="Source Title">Rayymond</cite></footer>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		</div>
+	</div>
+</body>
+</html>
